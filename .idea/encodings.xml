@@ -1,6 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/01_binary_search/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01_binary_search/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02_dynamic_array/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02_dynamic_array/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03_linked_list/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03_linked_list/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04_recursion/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04_recursion/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05_queue/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05_queue/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06_stack/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06_stack/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07_heap/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07_heap/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08_binary_tree/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08_binary_tree/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09_binary_search_tree/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09_binary_search_tree/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10_balanced_binary_search_tree/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10_balanced_binary_search_tree/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/11_red_black_tree/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/11_red_black_tree/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/12_b_b_plus_tree/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/12_b_b_plus_tree/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/13_hash/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/13_hash/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/14_sort/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/14_sort/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>

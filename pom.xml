@@ -5,10 +5,26 @@
   <groupId>org.example</groupId>
   <artifactId>labs-algorithm</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <packaging>jar</packaging>
+  <packaging>pom</packaging>
 
   <name>labs-algorithm</name>
   <url>http://maven.apache.org</url>
+  <modules>
+    <module>01_binary_search</module>
+    <module>02_dynamic_array</module>
+    <module>03_linked_list</module>
+    <module>04_recursion</module>
+    <module>05_queue</module>
+    <module>06_stack</module>
+    <module>07_heap</module>
+    <module>08_binary_tree</module>
+    <module>09_binary_search_tree</module>
+    <module>10_balanced_binary_search_tree</module>
+    <module>11_red_black_tree</module>
+    <module>12_b_b_plus_tree</module>
+    <module>13_hash</module>
+    <module>14_sort</module>
+  </modules>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
