@@ -24,6 +24,7 @@
     <module>12_b_b_plus_tree</module>
     <module>13_hash</module>
     <module>14_sort</module>
+    <module>book_note</module>
   </modules>
 
   <properties>
